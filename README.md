@@ -15,6 +15,7 @@
 - DB_PASSWORD=your password
 - VITE_ASSET_HOST=your host
 - VITE_ASSET_PORT=your port
+- SESSION_DOMAIN=set your domain
 
 ### Run commands from project root
 - composer install
